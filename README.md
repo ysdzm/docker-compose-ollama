@@ -20,3 +20,4 @@ $ docker exec -it ollama ollama rm gemma:2b
 ## 参考文献
 
 - [ollamaのDockerを試してみる](https://zenn.dev/mobmob/scraps/c63dd0935b8374)
+- [§2　Ollamaの導入｜Ollamaで体験する国産LLM入門](https://zenn.dev/hellorusk/books/e56548029b391f/viewer/ollama)
