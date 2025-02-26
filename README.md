@@ -17,6 +17,9 @@ $ docker exec -it ollama ollama list
 $ docker exec -it ollama ollama rm gemma:2b
 ```
 
+### 起動確認
+http://localhost:11434/
+
 ## 参考文献
 
 - [ollamaのDockerを試してみる](https://zenn.dev/mobmob/scraps/c63dd0935b8374)
